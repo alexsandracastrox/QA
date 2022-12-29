@@ -1,0 +1,15 @@
+Projeto de QA 
+
+Wireframe de fluxo do login.
+
+https://miro.com/app/board/uXjVP2tdhNw=/?share_link_id=476024832830
+
+
+Qual é o papel do Qa em uma planning.
+Verificar se "User Store" estão com escorpo variavel para a entrega.
+Verifica também as historias e tempo de entrega do projeto.
+
+Obs: A documentação é importante!
+
+
+ 
