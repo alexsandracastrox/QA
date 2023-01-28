@@ -14,7 +14,7 @@ Zephzr;
 Git;
 Logs.
 
-Muito grata por esse aprendizado continuo, obrigada Grupo GFT.
+Muito agradecida por este aprendizado continuo, obrigada Grupo GFT.
 
 
 
